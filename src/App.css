@@ -1,0 +1,40 @@
+.nolist{
+  list-style: none;
+  width: 100%;
+}
+.p1{
+  width: 250px;
+  font-weight: bold;
+  font-family: 'Dancing Script', cursive;
+}
+
+.bg{
+  background: moccasin;
+}
+
+.font{
+  font-weight: bold;
+  font-size: 17px;
+  font-family: 'Playfair Display', serif;;
+}
+
+.nodesign{
+  border: none;
+  background: none;
+  color: black;
+}
+
+.nodesign:hover{
+background:lightgrey;
+font-style:italic;
+color: darkblue;
+
+}
+
+.sub-menu{
+  background:rgb(249, 226, 142);
+  
+}
+
+ 
+
